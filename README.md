@@ -29,3 +29,20 @@ and assigns scores based on win, loss, or draw outcomes to choose the best move.
 2. Run the program
 3. Choose the difficulty level when prompted
 4. Enter a number between 0 and 8 to make your move
+
+------------------------------------------------------------------------------------------------------------------------
+
+## GUI Version (Tkinter)
+
+This project also includes a GUI-based version of the Tic Tac Toe game built using
+Python's Tkinter library.
+
+### Features
+1. Interactive 3×3 game board
+2. Human vs AI gameplay
+3. Difficulty levels (Easy / Medium / Hard)
+4. Session-based scoreboard (Wins / Losses / Draws)
+5. Restart game functionality
+6. Centered window layout
+
+
